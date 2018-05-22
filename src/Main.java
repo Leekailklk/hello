@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Test Git");
         System.out.println("Test push");
+        System.out.println("Test fetch");
          System.out.println("Test pull");
     }
 }
